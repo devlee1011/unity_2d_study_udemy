@@ -9,6 +9,7 @@
 *.mat text eol=lf
 *.anim text eol=lf
 *.slnx text eol=lf
+*.json text eol=lf
 
 *.gitignore text eol=lf
 *.gitattributes text eol=lf
