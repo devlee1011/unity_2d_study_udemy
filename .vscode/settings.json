@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "delivery_dash.slnx"
+    "dotnet.defaultSolution": "Delivery Dash.slnx"
 }
